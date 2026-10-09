@@ -1,4 +1,3 @@
-[roadmap-prd-prototype.md](https://github.com/user-attachments/files/31850405/roadmap-prd-prototype.md)
 # RouteLogic Velocity — Roadmap, PRD & Prototype
 
 > **Roadmap principle:** Prioritize the frontline execution problems most closely tied to trust, adoption, and at-risk account retention.

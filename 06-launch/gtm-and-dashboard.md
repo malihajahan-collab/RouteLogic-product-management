@@ -4,39 +4,39 @@
 
 ---
 
-## GTM Strategy
+## Business Objective
 
-### Goal
+Protect renewal revenue in at-risk enterprise accounts by restoring confidence in RouteLogic as the frontline system of action.
 
-**Conversion — retention and renewal protection**
-
-Velocity is not primarily an awareness launch. It is designed to improve the renewal case for existing enterprise customers whose frontline teams are losing trust in RouteLogic.
-
-### Audience
-
-**Primary:** Fleet Coordinators and Dispatch Leads  
-Daily users who experience the workflow friction and manual workarounds.
-
-**Secondary:** VP Operations / Logistics Leaders  
-Economic and operational decision-makers evaluating whether RouteLogic still delivers enough frontline value to justify renewal.
+Velocity is not primarily an acquisition or awareness launch. The immediate business problem is existing customers questioning whether RouteLogic still delivers enough operational value to justify renewal.
 
 ---
 
-## Launch Tier
+## Launch Strategy
 
-### XL — Strategic Repositioning
+Use an **account-focused rollout**, beginning with the customers where frontline friction creates the greatest business risk.
 
-Velocity changes the story of RouteLogic from:
+### Primary User
 
-**“More logistics capability”**
+**Fleet Coordinators and Dispatch Leads**  
+The daily users whose behavior must change for Velocity to succeed.
 
-to:
+### Economic Stakeholder
 
-**“Enterprise depth without frontline complexity.”**
+**VP Operations / Logistics Leaders**  
+The decision-makers who need evidence that RouteLogic is improving operational value before renewal.
 
-Because the target audience is the existing enterprise base, I would not interpret XL as broad paid reach by default. Investment should concentrate on high-touch account activation, customer proof, enablement, and coordinated product communication.
+### Recommended Motion
 
-> **PM judgment:** Launch tier determines effort. Audience determines where that effort goes.
+1. **Pilot** with 3 enterprise accounts.
+2. **Prove** measurable workflow improvement before making broader claims.
+3. **Enable Sales and Customer Success** with before/after evidence.
+4. **Use customer proof in renewal conversations.**
+5. **Expand selectively** once the product signal supports the investment.
+
+> **PM judgment:** The launch strategy follows the business risk. Concentrate effort where product friction is threatening account value rather than maximizing broad reach.
+
+---
 
 ---
 

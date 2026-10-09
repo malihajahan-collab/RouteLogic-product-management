@@ -1,9 +1,11 @@
-# RouteLogic Velocity — Roadmap, PRD & Prototype
+# # RouteLogic Velocity — Product Roadmap & Prioritization
 
 > **Roadmap principle:** Prioritize the frontline execution problems most closely tied to trust, adoption, and at-risk account retention.
 
 ---
-<img width="1881" height="885" alt="image" src="https://github.com/user-attachments/assets/e74538eb-f89a-482e-b0dc-5e66908c0c74" />
+[![RouteLogic Velocity Product Roadmap](../assets/velocity-roadmap.png)](https://bolt.new/~/sb1-pxzxtfvc)
+
+**[Explore Interactive Roadmap →](https://bolt.new/~/sb1-pxzxtfvc)**
 
 ## 12-Week Product Roadmap
 
@@ -73,51 +75,17 @@ The first-pass feature set was capability-heavy. I reprioritized it using the ev
 
 ---
 
-## Top NOW Feature
+## From Roadmap to Execution
 
-### One-Click Compliance Checklist
+The highest-priority roadmap bet is the **One-Click Compliance Checklist** because it directly targets the measurable compliance workflow leak.
 
-**Core outcome:** Help Fleet Coordinators complete compliance inside the dispatch flow with fewer steps and fewer manual workarounds.
+The detailed scope, behaviors, edge cases, and prototype are documented separately:
 
-**Success signal:** workflow completion past compliance improves from **48% to 63%**.
+**[View Scoped PRD & Prototype →](prd-and-prototype.md)**
 
-**Diagnostic signal:** compliance step time improves from **14.6 minutes to ≤10 minutes**.
-
-**Guardrails:** GPS accuracy ≥95% · driver-status sync errors ≤2%.
+This separation keeps the roadmap focused on **what earns investment and when**, while the PRD defines **what gets built and how the product should behave**.
 
 ---
-
-## Simplified PRD Snapshot
-
-### Vision
-Make compliance a fast, trustworthy step inside dispatch—not a separate workflow coordinators have to work around.
-
-### Must-Haves
-- Auto-populate route, driver, and vehicle information
-- Show only required compliance items
-- Highlight missing or invalid information
-- Block approval when required information is invalid
-- Allow one-click approval when all required checks pass
-- Record timestamp, coordinator, and approval status
-- Keep the user inside the dispatch workflow
-
-### Explicitly Not in V1
-- AI ETA recommendations
-- Manager analytics
-- Broad reporting automation
-- Training modules
-- New data sources or backend architecture changes
-
----
-
-## Roadmap & Prototype
-
-**Interactive roadmap:**  
-https://bolt.new/~/sb1-pxzxtfvc
-
-**Clickable prototype:**  
-https://preview--swift-check-approve.lovable.app/
-
 ---
 
 ## Strategic Takeaway

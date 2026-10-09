@@ -156,7 +156,7 @@ The presentation summarizes the recommendation, investment, roadmap, experiment,
 | Research synthesis | [`02-discovery/ai-synthesis.md`](02-discovery/ai-synthesis.md) |
 | Competitive workaround + journey | [`02-discovery/competitive-and-journey.md`](02-discovery/competitive-and-journey.md) |
 | Hypothesis + metrics | [`03-analytics/hypothesis-and-metrics.md`](03-analytics/hypothesis-and-metrics.md) |
-| Roadmap | [`04-roadmap/roadmap-prd-prototype.md`](04-roadmap/roadmap-prd-prototype.md) |
+| Product roadmap & prioritization | [`04-roadmap/product-roadmap.md`](04-roadmap/product-roadmap.md) |
 | Scoped PRD + prototype | [`04-roadmap/prd-and-prototype.md`](04-roadmap/prd-and-prototype.md) |
 | Experimentation plan | [`05-experimentation/experimentation-plan.md`](05-experimentation/experimentation-plan.md) |
 | GTM + success dashboard | [`06-launch/gtm-and-dashboard.md`](06-launch/gtm-and-dashboard.md) |

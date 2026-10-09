@@ -14,7 +14,8 @@
 
 | Element | Decision |
 |---|---|
-| **Method** | 50/50 A/B test |
+| **Method** | 50/50 controlled A/B test within the pilot |
+| **Randomization unit** | Fleet Coordinator, stratified by account |
 | **Control** | Current multi-step compliance workflow |
 | **Variant** | One-Click Compliance Checklist |
 | **Primary metric** | Workflow completion past compliance |
@@ -23,8 +24,17 @@
 | **Success threshold** | ≥63% |
 | **Diagnostic metric** | Compliance step time: 14.6 min → ≤10 min |
 | **Guardrails** | GPS accuracy ≥95% · driver-status sync errors ≤2% |
-| **Sample target** | ~175 qualifying workflow observations per arm |
-| **Decision window** | 4 weeks minimum |
+| **Statistical assumptions** | Two-sided α = 0.05 · 80% power |
+| **Planning sample** | ~175 qualifying observations per arm |
+| **Decision window** | 4 weeks |
+
+> **Sample-size note:** A simple two-proportion calculation using a 48% baseline and a +15pp MDE requires approximately 172 independent observations per arm; I rounded the planning target to ~175. Because workflows may repeat within coordinators, the analysis should account for clustering. If the effective sample is materially lower, the pilot should be treated as directional rather than overclaiming statistical certainty.
+
+### Pilot Interpretation
+
+This is a **3-account validation pilot**, not evidence of population-wide retention impact.
+
+The goal is to determine whether the workflow change produces a strong enough product signal to justify further rollout, not to claim universal causal impact from a small enterprise sample.
 
 ---
 

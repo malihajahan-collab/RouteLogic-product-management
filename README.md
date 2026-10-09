@@ -155,7 +155,7 @@ The presentation summarizes the recommendation, investment, roadmap, experiment,
 | PM prioritization | [`01-product-thinking/strategic-prioritization-pm-judgment.md`](01-product-thinking/strategic-prioritization-pm-judgment.md) |
 | Product health diagnosis | [`02-discovery/product-health-diagnosis.md`](02-discovery/product-health-diagnosis.md) |
 | Competitive workarounds + future journey | [`02-discovery/competitive-workarounds-and-future-journey.md`](02-discovery/competitive-workarounds-and-future-journey.md) |
-| Hypothesis + metrics | [`03-analytics/hypothesis-and-metrics.md`](03-analytics/hypothesis-and-metrics.md) |
+| Metric strategy + business linkage | [`03-analytics/metric-strategy.md`](03-analytics/metric-strategy.md) |
 | Product roadmap & prioritization | [`04-roadmap/product-roadmap.md`](04-roadmap/product-roadmap.md) |
 | Scoped PRD + prototype | [`04-roadmap/prd-and-prototype.md`](04-roadmap/prd-and-prototype.md) |
 | Experimentation plan | [`05-experimentation/experimentation-plan.md`](05-experimentation/experimentation-plan.md) |

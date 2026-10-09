@@ -1,4 +1,3 @@
-[ai-synthesis.md](https://github.com/user-attachments/files/31849832/ai-synthesis.md)
 # Product Health Synthesis & PM Judgment
 
 > **Discovery conclusion:** RouteLogic's frontline problem is not a lack of capability. It is a loss of operational trust during time-critical work.

@@ -153,7 +153,7 @@ The presentation summarizes the recommendation, investment, roadmap, experiment,
 |---|---|
 | Product framing | [`01-product-thinking/problem-hook.md`](01-product-thinking/problem-hook.md) |
 | PM prioritization | [`01-product-thinking/strategic-prioritization-pm-judgment.md`](01-product-thinking/strategic-prioritization-pm-judgment.md) |
-| Research synthesis | [`02-discovery/ai-synthesis.md`](02-discovery/ai-synthesis.md) |
+| Product health diagnosis | [`02-discovery/product-health-diagnosis.md`](02-discovery/product-health-diagnosis.md) |
 | Competitive workaround + journey | [`02-discovery/competitive-and-journey.md`](02-discovery/competitive-and-journey.md) |
 | Hypothesis + metrics | [`03-analytics/hypothesis-and-metrics.md`](03-analytics/hypothesis-and-metrics.md) |
 | Product roadmap & prioritization | [`04-roadmap/product-roadmap.md`](04-roadmap/product-roadmap.md) |

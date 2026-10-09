@@ -1,4 +1,4 @@
-# Product Health Synthesis & PM Judgment
+# Product Health Diagnosis & PM Judgment
 
 > **Discovery conclusion:** RouteLogic's frontline problem is not a lack of capability. It is a loss of operational trust during time-critical work.
 

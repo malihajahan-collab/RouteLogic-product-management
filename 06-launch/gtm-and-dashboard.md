@@ -38,8 +38,6 @@ The decision-makers who need evidence that RouteLogic is improving operational v
 
 ---
 
----
-
 ## Positioning
 
 ### Core Message
@@ -134,9 +132,9 @@ The launch should be measured at **business, product, and operational levels** r
 
 ---
 
-## How My PM Input Strengthened the GTM Plan
+## GTM Trade-Offs & PM Judgment
 
-A generic XL launch could easily become a broad marketing campaign.
+A broad enterprise launch could easily become an awareness-heavy campaign disconnected from the accounts carrying the greatest renewal risk.
 
 I reframed the plan around the actual business problem: **retention risk inside the existing enterprise base.**
 

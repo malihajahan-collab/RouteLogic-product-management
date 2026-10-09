@@ -160,7 +160,6 @@ The presentation summarizes the recommendation, investment, roadmap, experiment,
 | Scoped PRD + prototype | [`04-roadmap/prd-and-prototype.md`](04-roadmap/prd-and-prototype.md) |
 | Experimentation plan | [`05-experimentation/experimentation-plan.md`](05-experimentation/experimentation-plan.md) |
 | GTM + success dashboard | [`06-launch/gtm-and-dashboard.md`](06-launch/gtm-and-dashboard.md) |
-| Product reflections | [`06-launch/individual-insights.md`](06-launch/individual-insights.md) |
 
 ---
 

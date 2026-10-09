@@ -1,4 +1,3 @@
-[experimentation-plan.md](https://github.com/user-attachments/files/31850513/experimentation-plan.md)
 # RouteLogic Velocity — Experimentation Plan
 
 > **Decision question:** Does simplifying the compliance workflow keep more Fleet Coordinators in RouteLogic without weakening operational accuracy?

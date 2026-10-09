@@ -1,58 +1,169 @@
-# My Product: Product Management Final Project
+# RouteLogic Velocity
 
-> My final project for Product School's **Product Management** certification. One product concept, **StreamLine Spotlight** or **RouteLogic Velocity** (or my own initiative), taken from a raw problem to a launch-ready concept across six in-class labs, no homework required.
+### B2B Product Management Case Study
 
-This is a **template repo**. Click **Use this template → Create a new repository**, name it something like `pm-final-project`, and fill in one folder per module as you go. This is an **individual project**: your work is yours alone.
+**How might RouteLogic restore frontline speed and trust without sacrificing the enterprise capabilities customers value?**
+
+RouteLogic had grown into a powerful all-in-one logistics platform, but increasing complexity and reliability issues were pushing frontline teams into parallel workflows using WhatsApp, Google Maps, calls, spreadsheets, and screenshots.
+
+**RouteLogic Velocity** is a focused product strategy to simplify the execution layer, keep critical work inside the platform, and strengthen the renewal case for at-risk enterprise accounts.
 
 ---
 
-## Deliverables at a glance
+## Executive Snapshot
 
-| # | Deliverable | Module | Status | File |
-|---|---|---|---|---|
-| 1 | **Strategic Discovery Map** (groundwork) | M1 | ☐ | `01-product-thinking/strategic-map.md` |
-| 1 | **Problem Hook & Value Proposition** (+ hypothesis) | M1 | ☐ | `01-product-thinking/problem-hook.md` |
-| 2 | **AI Synthesis** — Product Health & Insights Summary | M2 | ☐ | `02-discovery/ai-synthesis.md` |
-| 2 | **Competitive Analysis & Journey Map** | M2 | ☐ | `02-discovery/competitive-and-journey.md` |
-| 3 | **Hypothesis & Success Metrics** | M3 | ☐ | `03-analytics/hypothesis-and-metrics.md` |
-| 4 | **Roadmap, PRD & Prototype** | M4 | ☐ | `04-roadmap/roadmap-prd-prototype.md` |
-| 4 | **PRD & Prototype Sprint** | M4 | ☐ | `04-roadmap/prd-and-prototype.md` |
-| 5 | **Experimentation Plan** | M5 | ☐ | `05-experimentation/experimentation-plan.md` |
-| 6 | **GTM Strategy & Success Dashboard** | M6 | ☐ | `06-launch/gtm-and-dashboard.md` |
-| 6 | **Individual Insights** (reflection) | M6 | ☐ | `06-launch/individual-insights.md` |
-| ★ | **Final Project Presentation** (the deck you submit) | M6 | ☐ | `06-launch/final-presentation.md` |
+| Signal | What it tells us |
+|---|---|
+| **8–15 min** | Route reassignment can take too long to reach drivers |
+| **20–60 min** | Driver status can remain stale on the dispatch board |
+| **48%** | Baseline workflow completion past compliance |
+| **63%** | Target completion threshold for the first experiment |
+| **4 weeks** | Pilot decision window |
+| **3 accounts** | Initial enterprise pilot scope |
 
-## The project in one sentence
+> **Product thesis:** RouteLogic became powerful by adding more. Velocity tests whether it can become more valuable by knowing what to remove.
 
-_What is your product concept, who is it for, and what's the single bet you're making?_
+---
 
-___
+## The Product Problem
 
-## How to submit
+The core issue is not lack of functionality.
 
-- Turn the deliverable files into your final deck: run the **Final Presentation Generator** (linked from the Module 6 deck) to build a single-file HTML deck, or paste your files into an AI tool like **Gamma** or **Canva** (see `06-launch/final-presentation.md`).
-- Commit the deck to this repo, then submit your **repo link** and your **presentation deck** to the learning platform within **7 days** of your cohort ending.
+It is **loss of operational trust**.
 
-## Repo structure
+When coordinators cannot rely on RouteLogic during time-critical work, they create a parallel operating system outside the product.
 
-```
-pm-final-project/
-├── README.md                              ← this dashboard
-├── 01-product-thinking/
-│   ├── strategic-map.md                   ← M1 lab 1: strategic discovery map
-│   └── problem-hook.md                    ← M1 lab 2: problem hook + value prop ★ Deliverable 1
-├── 02-discovery/
-│   ├── ai-synthesis.md                    ← M2 lab 1: product health & insights summary
-│   └── competitive-and-journey.md         ← M2 lab 2: workaround + journey map ★ Deliverable 2
-├── 03-analytics/
-│   └── hypothesis-and-metrics.md          ← M3: hypothesis + success metrics ★ Deliverable 3
-├── 04-roadmap/
-│   ├── roadmap-prd-prototype.md           ← M4 lab 1: roadmap + prioritization ★ Deliverable 4
-│   └── prd-and-prototype.md               ← M4 lab 2: PRD + prototype
-├── 05-experimentation/
-│   └── experimentation-plan.md            ← M5: experimentation plan          ★ Deliverable 5
-└── 06-launch/
-    ├── gtm-and-dashboard.md               ← M6: GTM plan + success dashboard  ★ Deliverable 6
-    ├── individual-insights.md             ← M6: friction, learnings, aha
-    └── final-presentation.md              ← M6: how to build & submit the deck ★ Final submission
-```
+**Reliability + complexity → off-platform work → lower trust → weaker adoption → higher renewal risk**
+
+### Primary User
+
+**Fleet Coordinator / Dispatcher**
+
+**Goal:** Make accurate, time-critical dispatch decisions from one trusted system.
+
+**Moment of misery:** The coordinator has already made a decision but cannot trust RouteLogic to communicate or reflect it quickly enough.
+
+---
+
+## My Product Decision
+
+Instead of adding more frontline capability, I prioritized **strategic subtraction**:
+
+- simplify critical workflows
+- surface exceptions instead of re-confirming known information
+- preserve enterprise controls in the background
+- defer features that do not directly improve speed, trust, or retention risk
+
+The first validation feature is the **One-Click Compliance Checklist**.
+
+---
+
+## Prototype
+
+The prototype tests whether compliance can remain rigorous while requiring fewer interactions.
+
+**Live prototype:**  
+https://preview--swift-check-approve.lovable.app/
+
+**Core principle:**  
+> One click reduces interaction cost. It does not remove validation.
+
+---
+
+## Roadmap
+
+The roadmap is sequenced around the product crisis rather than the size of the backlog.
+
+### NOW — Prove execution value
+- One-Click Compliance Checklist
+- Driver Alert Notifications
+- Step Progress Indicator
+- Shift Handoff Wizard
+
+### NEXT — Simplify daily operations
+- High-Velocity Mode
+- Mobile-First Coordinator Dashboard
+
+### LATER — Extend without reintroducing clutter
+- Smart Daily Report Auto-Fill
+- Compliance Audit Trail Export
+- In-App Coordinator Training
+
+**Interactive roadmap:**  
+https://bolt.new/~/sb1-pxzxtfvc
+
+---
+
+## Experiment
+
+**Hypothesis:** Simplifying the compliance workflow will increase in-platform completion for Fleet Coordinators.
+
+| Metric | Target |
+|---|---:|
+| Workflow completion past compliance | **48% → 63%** |
+| Minimum Detectable Effect | **+15 percentage points** |
+| Compliance step time | **14.6 min → ≤10 min** |
+| GPS accuracy guardrail | **≥95%** |
+| Driver-status sync errors | **≤2%** |
+| Decision window | **4 weeks** |
+
+**Decision rule:** Ship only if the improvement clears the pre-defined threshold and guardrails remain intact.
+
+---
+
+## Business Outcome
+
+The business-level North Star is **at-risk account retention**.
+
+A four-week product experiment cannot credibly prove retention impact, so the strategy uses controllable leading signals:
+
+**Higher in-platform completion → fewer workarounds → stronger operational trust → stronger renewal case**
+
+---
+
+## Go-to-Market
+
+Velocity is positioned as a **retention strategy**, not a feature campaign.
+
+**Primary audience:** Fleet Coordinators and Dispatch Leads  
+**Secondary audience:** VP Operations / Logistics Leaders
+
+**Launch approach:**
+- pilot with 3 enterprise accounts
+- build before/after evidence
+- activate Customer Success and Sales
+- expand only after the pilot supports the product bet
+
+---
+
+## Executive Board Pitch
+
+**View the board presentation:**  
+https://malihajahan-collab.github.io/RouteLogic-product-management/
+
+The presentation summarizes the recommendation, investment, roadmap, experiment, and executive decision required.
+
+---
+
+## Case Study Artifacts
+
+| Area | Artifact |
+|---|---|
+| Product framing | [`01-product-thinking/problem-hook.md`](01-product-thinking/problem-hook.md) |
+| PM prioritization | [`01-product-thinking/strategic-prioritization-pm-judgment.md`](01-product-thinking/strategic-prioritization-pm-judgment.md) |
+| Research synthesis | [`02-discovery/ai-synthesis.md`](02-discovery/ai-synthesis.md) |
+| Competitive workaround + journey | [`02-discovery/competitive-and-journey.md`](02-discovery/competitive-and-journey.md) |
+| Hypothesis + metrics | [`03-analytics/hypothesis-and-metrics.md`](03-analytics/hypothesis-and-metrics.md) |
+| Roadmap | [`04-roadmap/roadmap-prd-prototype.md`](04-roadmap/roadmap-prd-prototype.md) |
+| Scoped PRD + prototype | [`04-roadmap/prd-and-prototype.md`](04-roadmap/prd-and-prototype.md) |
+| Experimentation plan | [`05-experimentation/experimentation-plan.md`](05-experimentation/experimentation-plan.md) |
+| GTM + success dashboard | [`06-launch/gtm-and-dashboard.md`](06-launch/gtm-and-dashboard.md) |
+| Product reflections | [`06-launch/individual-insights.md`](06-launch/individual-insights.md) |
+
+---
+
+## PM Takeaway
+
+> **AI accelerated synthesis and execution. Product judgment determined the problem, trade-offs, scope, metrics, and decision criteria.**
+
+The most important shift in this case was moving from **“what feature should we build?”** to **“what evidence is strong enough to justify investment?”**

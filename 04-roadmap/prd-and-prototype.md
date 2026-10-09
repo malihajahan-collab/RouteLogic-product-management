@@ -163,9 +163,9 @@ The experiment measures **workflow improvement**, not checklist clicks.
 
 ## Clickable Prototype
 
-https://preview--swift-check-approve.lovable.app/
+[![RouteLogic One-Click Compliance Prototype](../assets/routelogic-prototype.png)](https://preview--swift-check-approve.lovable.app/)
 
-<img width="1202" height="556" alt="image" src="https://github.com/user-attachments/assets/a8261e1e-9823-41ec-862e-5683c0f8a25f" />
+**[View Live Prototype →](https://preview--swift-check-approve.lovable.app/)**
 
 
 ---

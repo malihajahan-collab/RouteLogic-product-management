@@ -1,25 +1,23 @@
 # RouteLogic Velocity
 
-### B2B Product Management Case Study
+### B2B SaaS Product Strategy · Discovery · Experimentation · GTM
 
-**How might RouteLogic restore frontline speed and trust without sacrificing the enterprise capabilities customers value?**
+> **Restore frontline execution trust before adding more product complexity.**
 
-RouteLogic had grown into a powerful all-in-one logistics platform, but increasing complexity and reliability issues were pushing frontline teams into parallel workflows using WhatsApp, Google Maps, calls, spreadsheets, and screenshots.
+RouteLogic had built deep enterprise logistics capability, but frontline teams were increasingly leaving the platform to complete time-critical work through WhatsApp, Google Maps, calls, spreadsheets, and screenshots.
 
-**RouteLogic Velocity** is a focused product strategy to simplify the execution layer, keep critical work inside the platform, and strengthen the renewal case for at-risk enterprise accounts.
+**My product decision:** simplify the execution layer while preserving enterprise capability in the background.
 
----
+### Executive Recommendation
 
-## Executive Snapshot
+Run a **4-week Velocity pilot across 3 enterprise accounts**, starting with a One-Click Compliance workflow and a pre-defined **ship / iterate / kill** decision.
 
-| Signal | What it tells us |
-|---|---|
-| **8–15 min** | Route reassignment can take too long to reach drivers |
-| **20–60 min** | Driver status can remain stale on the dispatch board |
-| **48%** | Baseline workflow completion past compliance |
-| **63%** | Target completion threshold for the first experiment |
-| **4 weeks** | Pilot decision window |
-| **3 accounts** | Initial enterprise pilot scope |
+| **8–15 min** | **20–60 min** | **48% → 63%** | **4 weeks** |
+|---|---|---|---|
+| Route reassignment delay | Driver-status lag | Completion target | Decision window |
+
+**[View Executive Board Pitch →](https://malihajahan-collab.github.io/RouteLogic-product-management/)**  
+**[Try Live Prototype →](https://preview--swift-check-approve.lovable.app/)** · **[Explore Roadmap →](https://bolt.new/~/sb1-pxzxtfvc)**
 
 > **Product thesis:** RouteLogic became powerful by adding more. Velocity tests whether it can become more valuable by knowing what to remove.
 

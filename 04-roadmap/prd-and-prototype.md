@@ -1,4 +1,3 @@
-[prd-and-prototype.md](https://github.com/user-attachments/files/31850378/prd-and-prototype.md)
 # One-Click Compliance Checklist — Scoped PRD & Prototype
 
 > **Scope principle:** Build the shortest viable path that removes the compliance bottleneck without weakening operational accuracy.

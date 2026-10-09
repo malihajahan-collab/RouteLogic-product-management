@@ -1,4 +1,3 @@
-[competitive-and-journey.md](https://github.com/user-attachments/files/31849849/competitive-and-journey.md)
 # Competitive Workarounds & Future Journey
 
 > **Competitive insight:** RouteLogic is not only competing with other logistics platforms. During time-critical work, it is competing with the speed and familiarity of WhatsApp, Google Maps, calls, and spreadsheets.

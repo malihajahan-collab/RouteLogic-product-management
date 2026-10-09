@@ -1,4 +1,3 @@
-[gtm-and-dashboard.md](https://github.com/user-attachments/files/31850584/gtm-and-dashboard.md)
 # RouteLogic Velocity — GTM Strategy & Success Dashboard
 
 > **Launch objective:** Protect at-risk enterprise accounts by restoring confidence in RouteLogic as the frontline system of action.

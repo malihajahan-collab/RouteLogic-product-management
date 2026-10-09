@@ -1,4 +1,4 @@
-# # RouteLogic Velocity — Product Roadmap & Prioritization
+# RouteLogic Velocity — Product Roadmap & Prioritization
 
 > **Roadmap principle:** Prioritize the frontline execution problems most closely tied to trust, adoption, and at-risk account retention.
 
@@ -85,7 +85,6 @@ The detailed scope, behaviors, edge cases, and prototype are documented separate
 
 This separation keeps the roadmap focused on **what earns investment and when**, while the PRD defines **what gets built and how the product should behave**.
 
----
 ---
 
 ## Strategic Takeaway

@@ -1,10 +1,8 @@
-[individual-insights.md](https://github.com/user-attachments/files/31850610/individual-insights.md)
 # Product Management Reflections
 
-> **Course reflection:** The biggest shift was moving from solution confidence to evidence discipline.
+> **Product evolution:** The biggest shift in this work was moving from solution confidence to evidence discipline.
 
 ---
-
 ## Friction Points
 
 ### Turning Good Ideas Into Testable Bets
@@ -22,7 +20,7 @@ That forced me to move from **“this is a good idea”** to **“what evidence 
 
 ---
 
-## Key Learnings
+## Product Principles I Applied
 
 ### 1. Activity Is Not the Same as Value
 
@@ -62,7 +60,7 @@ My contribution was supplying the judgment it lacked:
 
 ---
 
-## Aha Moment
+## Core Product Principle
 
 > **Every product idea is a hypothesis until evidence proves otherwise.**
 

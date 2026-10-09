@@ -40,7 +40,7 @@ The experience breaks when a coordinator has already made a decision but cannot 
 
 ## Problem Hook
 
-> **RouteLogic’s expanding all-in-one platform has created a gap between enterprise power and frontline usability, where 95% of daily users struggle with speed and efficiency. As coordinators increasingly rely on Google Maps, spreadsheets, calls, screenshots, and other workarounds to execute time-critical work, core product utility is eroding and churn risk is rising.**
+> **RouteLogic’s expanding all-in-one platform has created a gap between enterprise power and frontline usability. As coordinators increasingly rely on Google Maps, spreadsheets, calls, screenshots, and other workarounds to execute time-critical work, core product utility is eroding and renewal risk is rising.**
 
 ---
 

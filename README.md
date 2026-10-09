@@ -60,19 +60,25 @@ The first validation feature is the **One-Click Compliance Checklist**.
 
 ## Prototype
 
+### One-Click Compliance Checklist
+
 The prototype tests whether compliance can remain rigorous while requiring fewer interactions.
 
-**Live prototype:**  
-https://preview--swift-check-approve.lovable.app/
+[![RouteLogic One-Click Compliance Prototype](assets/routelogic-prototype.png)](https://preview--swift-check-approve.lovable.app/)
 
-**Core principle:**  
-> One click reduces interaction cost. It does not remove validation.
+**[View Live Prototype →](https://preview--swift-check-approve.lovable.app/)**
+
+> **Product principle:** One click reduces interaction cost. It does not remove validation.
 
 ---
 
 ## Roadmap
 
 The roadmap is sequenced around the product crisis rather than the size of the backlog.
+
+[![RouteLogic Velocity Product Roadmap](assets/velocity-roadmap.png)](https://bolt.new/~/sb1-pxzxtfvc)
+
+**[Explore Interactive Roadmap →](https://bolt.new/~/sb1-pxzxtfvc)**
 
 ### NOW — Prove execution value
 - One-Click Compliance Checklist
@@ -89,9 +95,7 @@ The roadmap is sequenced around the product crisis rather than the size of the b
 - Compliance Audit Trail Export
 - In-App Coordinator Training
 
-**Interactive roadmap:**  
-https://bolt.new/~/sb1-pxzxtfvc
-
+> **Prioritization decision:** Defer attractive features that do not directly improve speed, operational trust, or retention risk.
 ---
 
 ## Experiment

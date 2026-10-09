@@ -1,4 +1,3 @@
-[hypothesis-and-metrics.md](https://github.com/user-attachments/files/31850092/hypothesis-and-metrics.md)
 # Hypothesis & Success Metrics
 
 > **Strategic goal:** Improve frontline product trust in a way that supports retention of at-risk enterprise accounts.
